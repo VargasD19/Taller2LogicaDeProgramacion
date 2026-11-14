@@ -1,11 +1,11 @@
 # Taller de Lógica de Programación
 
-**Estudiante:** Camilo Andres Pinilla Garcia
+**Estudiante:** Julian Andres Vargas Davila
 **Fecha de entrega:** 13-11-2026
 
 ## Descripción
 
-Este repositorio contiene la solución del taller de Lógica de Programación: 10 ejercicios clasificados en tres niveles de dificultad (básico e intermedio). Cada ejercicio incluye su enunciado, un breve análisis, el pseudocódigo (con declaración de variables) y el diagrama de flujo correspondiente.
+Este repositorio contiene la solución al taller #2 de Lógica de Programación: 10 ejercicios con 2 niveles de dificultad-Basico y Intermedio-. Cada ejercicio incluye su enunciado, un breve análisis, el pseudocódigo y el diagrama de flujo correspondiente.
 
 ### Nivel Básico
 
