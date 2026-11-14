@@ -4,6 +4,8 @@ Validar Contraseña: Simular un sistema de login. El usuario tiene 3 intentos pa
 
 # Analisis
 
+En este algoritmo usé un mientras el cual le da a la persona 3 intentos en total, si el usuario o la contraseña está mal muestra un aviso, realiza una suman al intento y en el momento en el que llegue a la cantidad máxima de 3 intentos el usuario se bloquea
+
 # Pseudocodigo
 
 Algoritmo ValidarContraseña

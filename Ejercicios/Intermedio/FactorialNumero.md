@@ -4,6 +4,8 @@ Factorial de un Número: Leer un número entero positivo y calcular su factorial
 
 # Analisis
 
+Uso un ciclo del 1 al numer y lo voy multiplicando a un resultado que inicia en 1, después que hace el cálculo nos muestra el resultado el cual sería el factorial.
+
 # Pseudocodigo
 
 Algoritmo FactorialNumero

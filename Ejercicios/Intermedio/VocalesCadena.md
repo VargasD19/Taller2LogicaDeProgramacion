@@ -4,6 +4,8 @@ Contar Vocales en una Cadena: Leer una cadena de texto (palabra o frase corta) y
 
 # Analisis
 
+Para este pseudocódigo hice que el texto recorriera letra por letra para detectar las vocales ya definidas antes, si encuentra una vocal este le va sumando 1 al contador y al final nos muestra la cantidad de vocales que había
+
 # Pseudocodigo
 
 Algoritmo ContarVocalesCadena

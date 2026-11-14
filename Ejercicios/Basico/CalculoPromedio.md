@@ -4,6 +4,8 @@ Cálculo de Promedio: Leer tres notas de un estudiante y calcular su promedio. M
 
 # Analisis
 
+Para el algoritmo definí las 3 variables las cuales tendrán la información de las notas, de ahí se realiza una suma y se divide por 3 para poder obtener el promedio de la nota.
+
 # Pseudocodigo
 
 Algoritmo CalculoPromedio

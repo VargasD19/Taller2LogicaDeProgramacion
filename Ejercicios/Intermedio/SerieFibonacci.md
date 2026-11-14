@@ -4,6 +4,8 @@ Serie de Fibonacci: Leer un número N y mostrar los primeros N términos de la s
 
 # Analisis
 
+En este algoritmo inicié partiendo del 0 al 1 y así en cada vuelta del ciclo este va sumando sus últimos 2 dígitos.
+
 # Pseudocodigo
 
 Algoritmo SerieFibonacci

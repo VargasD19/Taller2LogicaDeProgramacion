@@ -4,6 +4,8 @@
 
 # Analisis
 
+Leyendo la base y la altura del rectángulo multipliqué sus varias de base * altura el cual el resultado que nos daría sería su área y para su perímetro sumé la base por su altura y los multipliqué por 2.
+
 # Pseudocodigo
 
 Algoritmo AreaRectangulo

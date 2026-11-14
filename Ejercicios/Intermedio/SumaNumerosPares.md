@@ -4,6 +4,8 @@ Suma de Números Pares: Leer un número entero N y calcular la suma de todos los
 
 # Analisis
 
+Para este código hice que recorriera del 1 al N y usando un MOD 2 este revisa si cada número es par. Si lo es, lo suma a una variable que empieza en 0, y al final muestro el total.
+
 # Pseudocodigo
 
 Algoritmo SumNumPares

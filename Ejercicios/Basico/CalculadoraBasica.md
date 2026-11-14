@@ -4,6 +4,8 @@ Calculadora Básica: Leer dos números enteros y una opción (1: Suma, 2: Resta,
 
 # Analisis
 
+En este algoritmo hice que se lean 2 números y después se muestre un menú con cuatro opciones, suma, resta, multiplicación y división, de acuerdo a la opción elegida se ejecuta la operación y la muestra en la pantalla
+
 # Pseudocodigo
 
 Algoritmo CalculadoraBasica

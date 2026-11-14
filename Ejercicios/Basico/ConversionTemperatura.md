@@ -4,6 +4,8 @@ Conversión de Temperatura: Leer una temperatura en grados Celsius y convertirla
 
 # Analisis
 
+Usando la fórmula de °F = °C * 1.8+32 definí ambos como variables, una contiene el dato de 1.8 y la otra el de 32, cuando se escribe el número de grado celsius este suma ambos datos y los multiplica de acuerdo al número de grado celsius
+
 # Pseudocodigo
 
 Algoritmo ConversionTemperatura

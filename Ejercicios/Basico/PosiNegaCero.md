@@ -4,6 +4,8 @@ Positivo, Negativo o Cero: Leer un número entero y determinar si es positivo, n
 
 # Analisis
 
+Para este algoritmo hice que se letera un número y constantemente se calculara con 0, si es mayor a ceero nos muestra que es positivo, si es menor que 0 indica que es un número negativo y en caso de que no cumpla las 2 indicaciones nos indica que este resultado es 0
+
 # Pseudocodigo
 
 Algoritmo PositivoNegaticoCero
