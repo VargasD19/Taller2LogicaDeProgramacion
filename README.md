@@ -23,6 +23,3 @@ Este repositorio contiene la solución al taller #2 de Lógica de Programación:
 9. [Serie de Fibonacci](Ejercicios/Intermedio/SerieFibonacci.md)
 10. [Validar Contraseña](Ejercicios/Intermedio/ValidarContraseñas.md)
 
-git add .
-git commit -m "Ultima ya"
-git push -u origin main
